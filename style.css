@@ -9,6 +9,19 @@ h1 {
     padding: 10px;
     border: solid gray 3px;
 }
+#young {
+    text-align: center;
+    font-family: helvetica;
+    color: red;
+    font-size: 80px;
+    background-color: white;
+    padding: 10px;
+}
+h3 {
+    text-align: center;
+    font-family: helvetica;
+    margin-top: 20px;
+}
 
 nav > ul {
     list-style-type: none;
