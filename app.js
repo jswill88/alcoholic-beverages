@@ -38,7 +38,7 @@ if (age < 21) {
     if (howMany > 10) {
         alcoholic();
     } else {
+        userDescription();
         whenToDrink();
     }
-    userDescription();
 }
