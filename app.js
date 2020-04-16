@@ -31,7 +31,7 @@ function userDescription() {
     }
 }
 
-if (age > 21) {
+if (age < 21) {
     tooYoung();
 } else {
     var howMany = prompt("How many beers do you drink each day?")
