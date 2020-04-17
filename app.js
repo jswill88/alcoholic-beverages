@@ -6,7 +6,7 @@ var shouldDrink;
 
 function isAge() {
     while ((age > 120) || (age < 0)) {
-    age = prompt("Not a valid age. Please enter a valid age (0-100).")
+    age = prompt("Not a valid age. Please enter a valid age (0-120).")
          }
 }
 
